@@ -1,1 +1,1 @@
-# Termo de uso para comunidades
+# Termos de uso para comunidades

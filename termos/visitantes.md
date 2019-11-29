@@ -1,1 +1,1 @@
-# Temos de uso para visitantes
+# Termos de uso para visitantes

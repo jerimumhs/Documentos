@@ -1,1 +1,1 @@
-# Temos de uso para associados
+# Termos de uso para associados
