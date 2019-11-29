@@ -5,15 +5,15 @@ module.exports = {
     themeConfig: {
         lastUpdated: 'Last Updated', // string | boolean
         sidebar: {
-           '/Assembleias/': [
-               '',     /* /folder1/ */
-            //    'page-a',  /* /folder1/page-a.html */
-            //    'page-b'   /* /folder1/page-b.html */
-           ],
             // fallback
             '/': [
                 '',
-            ]
+            ],
+           '/assembleias/': [
+            //    '',     /* /folder1/ */
+               '2019-09-06',  /* /folder1/page-a.html */
+               '2019-11-28'   /* /folder1/page-b.html */
+           ]
         },
         // Assumes GitHub. Can also be a full GitLab url.
         repo: 'jerimumhs/Documentos',
