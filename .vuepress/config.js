@@ -10,10 +10,18 @@ module.exports = {
                 '2019-09-26',  /* /assembleia/2019-09-26.html */
                 '2019-11-28'   /* /assembleia/2019-11-28.html */
             ],
+            '/termos/': [
+                '/',     /* /termos/ */
+                'visitantes',  /* /termos/visitantes.html */
+                'associados',   /* /termos/associados.html */
+                'comunidades',  /* /termos/comunidades.html */
+                'eventos'   /* /termos/eventos.html */
+            ],
             // fallback
             '/': [
                 '',
-                'assembleias/'
+                'assembleias/',
+                'termos/',
             ]
         },
         // Assumes GitHub. Can also be a full GitLab url.
