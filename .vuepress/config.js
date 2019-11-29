@@ -17,11 +17,11 @@ module.exports = {
         //   }
         ],
         sidebar: {
-//            '/folder1/': [
-//                '',     /* /folder1/ */
-//                'page-a',  /* /folder1/page-a.html */
-//                'page-b'   /* /folder1/page-b.html */
-//            ],
+           '/Assembleias/': [
+               '',     /* /folder1/ */
+            //    'page-a',  /* /folder1/page-a.html */
+            //    'page-b'   /* /folder1/page-b.html */
+           ],
 //            '/folder2/': [
 //                '',     /* /folder2/ */
 //                'page-a',  /* /folder2/page-a.html */
@@ -29,9 +29,7 @@ module.exports = {
 //            ],
             // fallback
             '/': [
-                '',        /* / */
-//                'page-a', /* /page-a.html */
-//                'page-b'    /* /page-b.html */
+                '',
             ]
         },
         // Assumes GitHub. Can also be a full GitLab url.
