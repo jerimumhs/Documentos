@@ -4,29 +4,12 @@ module.exports = {
     base: '/Documentos/',
     themeConfig: {
         lastUpdated: 'Last Updated', // string | boolean
-        nav: [
-//          { text: 'Folder 1', link: '/folder1/' },
-//          { text: 'Folder 2', link: '/folder2/' },
-        //   {
-        //     text: 'Languages',
-        //     ariaLabel: 'Language Menu',
-        //     items: [
-        //       { text: 'Chinese', link: '/language/chinese/' },
-        //       { text: 'Japanese', link: '/language/japanese/' }
-        //     ]
-        //   }
-        ],
         sidebar: {
            '/Assembleias/': [
                '',     /* /folder1/ */
             //    'page-a',  /* /folder1/page-a.html */
             //    'page-b'   /* /folder1/page-b.html */
            ],
-//            '/folder2/': [
-//                '',     /* /folder2/ */
-//                'page-a',  /* /folder2/page-a.html */
-//                'page-b'   /* /folder2/page-b.html */
-//            ],
             // fallback
             '/': [
                 '',
